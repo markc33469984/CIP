@@ -1,0 +1,2401 @@
+Airport,Category,date,amount
+Flughafen Wien (VIE),Passagiere,01.01.2021,198295.0
+Flughafen Wien (VIE),Lokalpassagiere,01.01.2021,148310.0
+Flughafen Wien (VIE),Transferpassagiere,01.01.2021,47366.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.01.2021,3733.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.01.2021,19734820.17
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.01.2021,38938.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.01.2021,38784.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.01.2021,154.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.01.2021,621.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2021,1075380.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.01.2021,2885.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.01.2021,2885.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.01.2021,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.01.2021,38.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2021,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.01.2021,240118.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.01.2021,189979.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.01.2021,47520.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.01.2021,4392.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2021,20810200.17
+Flughafen Wien (VIE),Passagiere,01.02.2021,158786.0
+Flughafen Wien (VIE),Lokalpassagiere,01.02.2021,122115.0
+Flughafen Wien (VIE),Transferpassagiere,01.02.2021,35084.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.02.2021,2806.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.02.2021,18543188.0
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.02.2021,27524.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.02.2021,27460.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.02.2021,62.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.02.2021,442.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2021,1241127.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.02.2021,1791.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.02.2021,1791.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.02.2021,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.02.2021,16.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2021,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.02.2021,188101.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.02.2021,151366.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.02.2021,35146.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.02.2021,3264.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2021,19784315.0
+Flughafen Wien (VIE),Passagiere,01.03.2021,215637.0
+Flughafen Wien (VIE),Lokalpassagiere,01.03.2021,155837.0
+Flughafen Wien (VIE),Transferpassagiere,01.03.2021,57092.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.03.2021,3879.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.03.2021,21546981.0
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.03.2021,32033.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.03.2021,31972.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.03.2021,50.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.03.2021,499.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2021,1425188.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.03.2021,1459.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.03.2021,1459.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.03.2021,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.03.2021,18.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2021,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.03.2021,249129.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.03.2021,189268.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.03.2021,57142.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.03.2021,4396.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2021,22972169.0
+Flughafen Wien (VIE),Passagiere,01.04.2021,269127.0
+Flughafen Wien (VIE),Lokalpassagiere,01.04.2021,177654.0
+Flughafen Wien (VIE),Transferpassagiere,01.04.2021,89600.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.04.2021,5009.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.04.2021,21803158.57
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.04.2021,39392.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.04.2021,39346.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.04.2021,42.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.04.2021,673.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2021,1082436.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.04.2021,2288.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.04.2021,2288.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.04.2021,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.04.2021,30.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2021,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.04.2021,310807.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.04.2021,219288.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.04.2021,89642.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.04.2021,5712.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2021,22885594.57
+Flughafen Wien (VIE),Passagiere,01.05.2021,399518.0
+Flughafen Wien (VIE),Lokalpassagiere,01.05.2021,253580.0
+Flughafen Wien (VIE),Transferpassagiere,01.05.2021,143736.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.05.2021,5806.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.05.2021,21814697.15
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.05.2021,75420.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.05.2021,75387.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.05.2021,26.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.05.2021,843.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2021,1207734.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.05.2021,4260.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.05.2021,4260.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.05.2021,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.05.2021,48.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2021,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.05.2021,479198.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.05.2021,333227.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.05.2021,143762.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.05.2021,6697.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2021,23022431.15
+Flughafen Wien (VIE),Passagiere,01.06.2021,725230.0
+Flughafen Wien (VIE),Lokalpassagiere,01.06.2021,533030.0
+Flughafen Wien (VIE),Transferpassagiere,01.06.2021,188452.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.06.2021,8222.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.06.2021,21353897.93
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.06.2021,190505.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.06.2021,190412.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.06.2021,88.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.06.2021,1983.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2021,1323766.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.06.2021,10543.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.06.2021,10543.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.06.2021,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.06.2021,114.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2021,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.06.2021,926278.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.06.2021,733985.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.06.2021,188540.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.06.2021,10319.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2021,22677663.93
+Flughafen Wien (VIE),Passagiere,01.07.2021,1474634.0
+Flughafen Wien (VIE),Lokalpassagiere,01.07.2021,1101619.0
+Flughafen Wien (VIE),Transferpassagiere,01.07.2021,367226.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.07.2021,13578.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.07.2021,21691015.57
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.07.2021,311692.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.07.2021,311279.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.07.2021,402.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.07.2021,3402.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2021,1173056.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.07.2021,30876.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.07.2021,30876.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.07.2021,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.07.2021,232.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2021,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.07.2021,1817202.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.07.2021,1443774.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.07.2021,367628.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.07.2021,17212.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2021,22864071.57
+Flughafen Wien (VIE),Passagiere,01.08.2021,1778146.0
+Flughafen Wien (VIE),Lokalpassagiere,01.08.2021,1312802.0
+Flughafen Wien (VIE),Transferpassagiere,01.08.2021,460458.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.08.2021,15270.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.08.2021,20249187.689999998
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.08.2021,407435.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.08.2021,406256.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.08.2021,1150.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.08.2021,3796.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2021,1399617.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.08.2021,38210.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.08.2021,38210.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.08.2021,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.08.2021,256.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2021,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.08.2021,2223791.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.08.2021,1757268.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.08.2021,461608.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.08.2021,19322.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2021,21648804.689999998
+Flughafen Wien (VIE),Passagiere,01.09.2021,1575315.0
+Flughafen Wien (VIE),Lokalpassagiere,01.09.2021,1224539.0
+Flughafen Wien (VIE),Transferpassagiere,01.09.2021,346610.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.09.2021,14674.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.09.2021,21440358.009999998
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.09.2021,418473.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.09.2021,417938.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.09.2021,520.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.09.2021,3414.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2021,1153652.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.09.2021,23766.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.09.2021,23766.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.09.2021,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.09.2021,220.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2021,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.09.2021,2017554.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.09.2021,1666243.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.09.2021,347130.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.09.2021,18308.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2021,22594010.009999998
+Flughafen Wien (VIE),Passagiere,01.10.2021,1573155.0
+Flughafen Wien (VIE),Lokalpassagiere,01.10.2021,1229852.0
+Flughafen Wien (VIE),Transferpassagiere,01.10.2021,340176.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.10.2021,14533.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.10.2021,24678522.23
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.10.2021,428426.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.10.2021,427787.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.10.2021,632.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.10.2021,3508.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2021,1300514.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.10.2021,19272.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.10.2021,19272.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.10.2021,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.10.2021,174.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2021,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.10.2021,2020853.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.10.2021,1676911.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.10.2021,340808.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.10.2021,18215.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2021,25979036.23
+Flughafen Wien (VIE),Passagiere,01.11.2021,
+Flughafen Wien (VIE),Lokalpassagiere,01.11.2021,
+Flughafen Wien (VIE),Transferpassagiere,01.11.2021,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.11.2021,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.11.2021,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.11.2021,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.11.2021,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.11.2021,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.11.2021,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2021,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.11.2021,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.11.2021,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.11.2021,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.11.2021,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2021,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.11.2021,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.11.2021,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.11.2021,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.11.2021,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2021,
+Flughafen Wien (VIE),Passagiere,01.12.2021,
+Flughafen Wien (VIE),Lokalpassagiere,01.12.2021,
+Flughafen Wien (VIE),Transferpassagiere,01.12.2021,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.12.2021,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.12.2021,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.12.2021,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.12.2021,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.12.2021,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.12.2021,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2021,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.12.2021,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.12.2021,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.12.2021,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.12.2021,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2021,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.12.2021,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.12.2021,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.12.2021,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.12.2021,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2021,
+Flughafen Wien (VIE),Passagiere,01.01.2020,
+Flughafen Wien (VIE),Lokalpassagiere,01.01.2020,
+Flughafen Wien (VIE),Transferpassagiere,01.01.2020,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.01.2020,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.01.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.01.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.01.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.01.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.01.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.01.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.01.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.01.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.01.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.01.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.01.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.01.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.01.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2020,
+Flughafen Wien (VIE),Passagiere,01.01.2020,2093673.0
+Flughafen Wien (VIE),Lokalpassagiere,01.01.2020,1663642.0
+Flughafen Wien (VIE),Transferpassagiere,01.01.2020,426678.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.01.2020,19507.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.01.2020,20356489.95
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.01.2020,418096.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.01.2020,413648.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.01.2020,4446.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.01.2020,3404.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2020,1337267.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.01.2020,22649.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.01.2020,22649.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.01.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.01.2020,326.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2020,967.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.01.2020,2534418.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.01.2020,2099939.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.01.2020,431124.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.01.2020,23237.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2020,21694723.95
+Flughafen Wien (VIE),Passagiere,01.02.2020,
+Flughafen Wien (VIE),Lokalpassagiere,01.02.2020,
+Flughafen Wien (VIE),Transferpassagiere,01.02.2020,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.02.2020,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.02.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.02.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.02.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.02.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.02.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.02.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.02.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.02.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.02.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.02.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.02.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.02.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.02.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2020,
+Flughafen Wien (VIE),Passagiere,01.02.2020,2017461.0
+Flughafen Wien (VIE),Lokalpassagiere,01.02.2020,1631827.0
+Flughafen Wien (VIE),Transferpassagiere,01.02.2020,384614.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.02.2020,18627.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.02.2020,20824035.0
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.02.2020,421567.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.02.2020,419715.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.02.2020,1852.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.02.2020,3196.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2020,1396340.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.02.2020,20818.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.02.2020,20818.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.02.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.02.2020,309.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2020,1648.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.02.2020,2459846.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.02.2020,2072360.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.02.2020,386466.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.02.2020,22132.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2020,22222023.0
+Flughafen Wien (VIE),Passagiere,01.03.2020,
+Flughafen Wien (VIE),Lokalpassagiere,01.03.2020,
+Flughafen Wien (VIE),Transferpassagiere,01.03.2020,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.03.2020,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.03.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.03.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.03.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.03.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.03.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.03.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.03.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.03.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.03.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.03.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.03.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.03.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.03.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2020,
+Flughafen Wien (VIE),Passagiere,01.03.2020,808454.0
+Flughafen Wien (VIE),Lokalpassagiere,01.03.2020,656558.0
+Flughafen Wien (VIE),Transferpassagiere,01.03.2020,150494.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.03.2020,10479.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.03.2020,22143747.0
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.03.2020,169388.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.03.2020,168196.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.03.2020,1068.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.03.2020,1867.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2020,1221243.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.03.2020,6420.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.03.2020,6420.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.03.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.03.2020,138.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2020,1343.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.03.2020,984262.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.03.2020,831174.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.03.2020,151562.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.03.2020,12484.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2020,23366333.0
+Flughafen Wien (VIE),Passagiere,01.04.2020,
+Flughafen Wien (VIE),Lokalpassagiere,01.04.2020,
+Flughafen Wien (VIE),Transferpassagiere,01.04.2020,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.04.2020,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.04.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.04.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.04.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.04.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.04.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.04.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.04.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.04.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.04.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.04.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.04.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.04.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.04.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2020,
+Flughafen Wien (VIE),Passagiere,01.04.2020,12632.0
+Flughafen Wien (VIE),Lokalpassagiere,01.04.2020,12263.0
+Flughafen Wien (VIE),Transferpassagiere,01.04.2020,324.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.04.2020,960.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.04.2020,14538631.26
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.04.2020,2370.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.04.2020,2318.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.04.2020,0.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.04.2020,259.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2020,1161896.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.04.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.04.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.04.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.04.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2020,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.04.2020,15002.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.04.2020,14581.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.04.2020,324.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.04.2020,1219.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2020,15700527.26
+Flughafen Wien (VIE),Passagiere,01.05.2020,
+Flughafen Wien (VIE),Lokalpassagiere,01.05.2020,
+Flughafen Wien (VIE),Transferpassagiere,01.05.2020,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.05.2020,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.05.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.05.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.05.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.05.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.05.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.05.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.05.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.05.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.05.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.05.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.05.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.05.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.05.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2020,
+Flughafen Wien (VIE),Passagiere,01.05.2020,20202.0
+Flughafen Wien (VIE),Lokalpassagiere,01.05.2020,19531.0
+Flughafen Wien (VIE),Transferpassagiere,01.05.2020,472.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.05.2020,1067.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.05.2020,15545000.0
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.05.2020,3081.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.05.2020,3081.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.05.2020,0.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.05.2020,283.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2020,1396162.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.05.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.05.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.05.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.05.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2020,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.05.2020,23283.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.05.2020,22612.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.05.2020,472.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.05.2020,1350.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2020,16941162.0
+Flughafen Wien (VIE),Passagiere,01.06.2020,
+Flughafen Wien (VIE),Lokalpassagiere,01.06.2020,
+Flughafen Wien (VIE),Transferpassagiere,01.06.2020,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.06.2020,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.06.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.06.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.06.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.06.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.06.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.06.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.06.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.06.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.06.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.06.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.06.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.06.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.06.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2020,
+Flughafen Wien (VIE),Passagiere,01.06.2020,138124.0
+Flughafen Wien (VIE),Lokalpassagiere,01.06.2020,120802.0
+Flughafen Wien (VIE),Transferpassagiere,01.06.2020,17296.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.06.2020,2453.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.06.2020,14422685.0
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.06.2020,3348.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.06.2020,3348.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.06.2020,0.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.06.2020,280.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2020,1439836.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.06.2020,621.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.06.2020,621.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.06.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.06.2020,24.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2020,0.047
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.06.2020,142093.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.06.2020,124771.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.06.2020,17296.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.06.2020,2757.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2020,15862521.047
+Flughafen Wien (VIE),Passagiere,01.07.2020,
+Flughafen Wien (VIE),Lokalpassagiere,01.07.2020,
+Flughafen Wien (VIE),Transferpassagiere,01.07.2020,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.07.2020,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.07.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.07.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.07.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.07.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.07.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.07.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.07.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.07.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.07.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.07.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.07.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.07.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.07.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2020,
+Flughafen Wien (VIE),Passagiere,01.07.2020,576370.0
+Flughafen Wien (VIE),Lokalpassagiere,01.07.2020,486402.0
+Flughafen Wien (VIE),Transferpassagiere,01.07.2020,89412.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.07.2020,7648.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.07.2020,15846510.44
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.07.2020,152818.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.07.2020,151915.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.07.2020,840.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.07.2020,1577.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2020,1470560.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.07.2020,5424.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.07.2020,5424.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.07.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.07.2020,114.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2020,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.07.2020,734612.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.07.2020,643741.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.07.2020,90252.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.07.2020,9339.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2020,17317070.486
+Flughafen Wien (VIE),Passagiere,01.08.2020,
+Flughafen Wien (VIE),Lokalpassagiere,01.08.2020,
+Flughafen Wien (VIE),Transferpassagiere,01.08.2020,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.08.2020,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.08.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.08.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.08.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.08.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.08.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.08.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.08.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.08.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.08.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.08.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.08.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.08.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.08.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2020,
+Flughafen Wien (VIE),Passagiere,01.08.2020,797716.0
+Flughafen Wien (VIE),Lokalpassagiere,01.08.2020,663369.0
+Flughafen Wien (VIE),Transferpassagiere,01.08.2020,133098.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.08.2020,10494.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.08.2020,16048856.9
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.08.2020,252022.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.08.2020,250844.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.08.2020,1178.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.08.2020,2676.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2020,1198437.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.08.2020,16311.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.08.2020,16311.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.08.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.08.2020,175.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2020,504.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.08.2020,1066049.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.08.2020,930524.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.08.2020,134276.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.08.2020,13345.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2020,17247797.9
+Flughafen Wien (VIE),Passagiere,01.09.2020,
+Flughafen Wien (VIE),Lokalpassagiere,01.09.2020,
+Flughafen Wien (VIE),Transferpassagiere,01.09.2020,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.09.2020,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.09.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.09.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.09.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.09.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.09.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.09.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.09.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.09.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.09.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.09.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.09.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.09.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.09.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2020,
+Flughafen Wien (VIE),Passagiere,01.09.2020,562247.0
+Flughafen Wien (VIE),Lokalpassagiere,01.09.2020,453282.0
+Flughafen Wien (VIE),Transferpassagiere,01.09.2020,107294.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.09.2020,9335.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.09.2020,18152517.0
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.09.2020,128664.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.09.2020,128093.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.09.2020,564.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.09.2020,2135.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2020,1301913.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.09.2020,12367.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.09.2020,12283.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.09.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.09.2020,189.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2020,240.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.09.2020,703278.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.09.2020,593658.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.09.2020,107858.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.09.2020,11659.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2020,19454670.0
+Flughafen Wien (VIE),Passagiere,01.10.2020,
+Flughafen Wien (VIE),Lokalpassagiere,01.10.2020,
+Flughafen Wien (VIE),Transferpassagiere,01.10.2020,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.10.2020,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.10.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.10.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.10.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.10.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.10.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.10.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.10.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.10.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.10.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.10.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.10.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.10.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.10.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2020,
+Flughafen Wien (VIE),Passagiere,01.10.2020,378107.0
+Flughafen Wien (VIE),Lokalpassagiere,01.10.2020,279870.0
+Flughafen Wien (VIE),Transferpassagiere,01.10.2020,96188.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.10.2020,6986.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.10.2020,19536989.0
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.10.2020,110346.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.10.2020,110072.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.10.2020,256.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.10.2020,1622.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2020,1237949.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.10.2020,5591.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.10.2020,5591.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.10.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.10.2020,106.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2020,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.10.2020,494044.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.10.2020,395533.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.10.2020,96444.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.10.2020,8714.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2020,20774938.0
+Flughafen Wien (VIE),Passagiere,01.11.2020,
+Flughafen Wien (VIE),Lokalpassagiere,01.11.2020,
+Flughafen Wien (VIE),Transferpassagiere,01.11.2020,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.11.2020,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.11.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.11.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.11.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.11.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.11.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.11.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.11.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.11.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.11.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.11.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.11.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.11.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.11.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2020,
+Flughafen Wien (VIE),Passagiere,01.11.2020,181115.0
+Flughafen Wien (VIE),Lokalpassagiere,01.11.2020,138670.0
+Flughafen Wien (VIE),Transferpassagiere,01.11.2020,40612.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.11.2020,4247.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.11.2020,20805034.0
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.11.2020,39875.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.11.2020,39538.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.11.2020,282.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.11.2020,916.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2020,1326894.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.11.2020,1593.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.11.2020,1564.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.11.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.11.2020,38.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2020,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.11.2020,222583.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.11.2020,179772.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.11.2020,40894.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.11.2020,5201.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2020,22131928.0
+Flughafen Wien (VIE),Passagiere,01.12.2020,
+Flughafen Wien (VIE),Lokalpassagiere,01.12.2020,
+Flughafen Wien (VIE),Transferpassagiere,01.12.2020,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.12.2020,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.12.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.12.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.12.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.12.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.12.2020,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.12.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.12.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.12.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.12.2020,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.12.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.12.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.12.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.12.2020,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2020,
+Flughafen Wien (VIE),Passagiere,01.12.2020,226837.0
+Flughafen Wien (VIE),Lokalpassagiere,01.12.2020,172664.0
+Flughafen Wien (VIE),Transferpassagiere,01.12.2020,51464.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.12.2020,4077.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.12.2020,19667495.67
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.12.2020,46475.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.12.2020,46061.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.12.2020,378.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.12.2020,767.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2020,1299056.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.12.2020,4634.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.12.2020,4634.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.12.2020,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.12.2020,68.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2020,0.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.12.2020,277946.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.12.2020,223359.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.12.2020,51842.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.12.2020,4912.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2020,20966565.67
+Flughafen Wien (VIE),Passagiere,01.01.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.01.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.01.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.01.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.01.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.01.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.01.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.01.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.01.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.01.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.01.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.01.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.01.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.01.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.01.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.01.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.01.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2019,
+Flughafen Wien (VIE),Passagiere,01.01.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.01.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.01.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.01.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.01.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.01.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.01.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.01.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.01.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.01.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.01.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.01.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.01.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.01.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.01.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.01.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.01.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2019,
+Flughafen Wien (VIE),Passagiere,01.01.2019,1830923.0
+Flughafen Wien (VIE),Lokalpassagiere,01.01.2019,1448127.0
+Flughafen Wien (VIE),Transferpassagiere,01.01.2019,376568.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.01.2019,18171.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.01.2019,21225661.450000003
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.01.2019,365995.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.01.2019,364047.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.01.2019,1948.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.01.2019,3187.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2019,1334960.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.01.2019,26163.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.01.2019,25906.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.01.2019,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.01.2019,381.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2019,3592.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.01.2019,2223081.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.01.2019,1838080.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.01.2019,378516.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.01.2019,21739.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2019,22564213.450000003
+Flughafen Wien (VIE),Passagiere,01.02.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.02.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.02.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.02.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.02.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.02.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.02.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.02.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.02.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.02.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.02.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.02.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.02.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.02.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.02.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.02.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.02.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2019,
+Flughafen Wien (VIE),Passagiere,01.02.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.02.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.02.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.02.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.02.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.02.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.02.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.02.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.02.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.02.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.02.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.02.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.02.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.02.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.02.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.02.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.02.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2019,
+Flughafen Wien (VIE),Passagiere,01.02.2019,1863688.0
+Flughafen Wien (VIE),Lokalpassagiere,01.02.2019,1506199.0
+Flughafen Wien (VIE),Transferpassagiere,01.02.2019,350308.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.02.2019,17263.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.02.2019,20218976.88
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.02.2019,359455.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.02.2019,358353.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.02.2019,1052.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.02.2019,2854.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2019,1233616.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.02.2019,27987.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.02.2019,27987.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.02.2019,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.02.2019,350.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2019,4724.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.02.2019,2251130.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.02.2019,1892539.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.02.2019,351360.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.02.2019,20467.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2019,21457316.88
+Flughafen Wien (VIE),Passagiere,01.03.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.03.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.03.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.03.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.03.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.03.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.03.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.03.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.03.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.03.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.03.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.03.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.03.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.03.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.03.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.03.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.03.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2019,
+Flughafen Wien (VIE),Passagiere,01.03.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.03.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.03.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.03.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.03.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.03.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.03.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.03.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.03.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.03.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.03.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.03.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.03.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.03.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.03.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.03.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.03.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2019,
+Flughafen Wien (VIE),Passagiere,01.03.2019,2365089.0
+Flughafen Wien (VIE),Lokalpassagiere,01.03.2019,1831123.0
+Flughafen Wien (VIE),Transferpassagiere,01.03.2019,512190.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.03.2019,20909.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.03.2019,25196664.939999998
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.03.2019,477533.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.03.2019,475133.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.03.2019,2382.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.03.2019,3499.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2019,1347736.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.03.2019,29792.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.03.2019,29792.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.03.2019,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.03.2019,381.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2019,4668.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.03.2019,2872414.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.03.2019,2336048.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.03.2019,514572.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.03.2019,24789.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2019,26549068.939999998
+Flughafen Wien (VIE),Passagiere,01.04.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.04.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.04.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.04.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.04.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.04.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.04.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.04.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.04.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.04.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.04.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.04.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.04.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.04.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.04.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.04.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.04.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2019,
+Flughafen Wien (VIE),Passagiere,01.04.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.04.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.04.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.04.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.04.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.04.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.04.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.04.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.04.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.04.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.04.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.04.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.04.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.04.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.04.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.04.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.04.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2019,
+Flughafen Wien (VIE),Passagiere,01.04.2019,2744184.0
+Flughafen Wien (VIE),Lokalpassagiere,01.04.2019,2094419.0
+Flughafen Wien (VIE),Transferpassagiere,01.04.2019,624270.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.04.2019,22842.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.04.2019,23535265.11
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.04.2019,653258.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.04.2019,647740.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.04.2019,5518.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.04.2019,4547.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2019,1333546.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.04.2019,32974.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.04.2019,32974.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.04.2019,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.04.2019,408.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2019,1463.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.04.2019,3430416.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.04.2019,2775133.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.04.2019,629788.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.04.2019,27797.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2019,24870274.11
+Flughafen Wien (VIE),Passagiere,01.05.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.05.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.05.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.05.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.05.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.05.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.05.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.05.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.05.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.05.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.05.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.05.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.05.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.05.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.05.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.05.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.05.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2019,
+Flughafen Wien (VIE),Passagiere,01.05.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.05.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.05.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.05.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.05.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.05.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.05.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.05.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.05.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.05.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.05.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.05.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.05.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.05.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.05.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.05.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.05.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2019,
+Flughafen Wien (VIE),Passagiere,01.05.2019,2877161.0
+Flughafen Wien (VIE),Lokalpassagiere,01.05.2019,2218620.0
+Flughafen Wien (VIE),Transferpassagiere,01.05.2019,633302.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.05.2019,24377.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.05.2019,23661445.83
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.05.2019,674101.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.05.2019,670735.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.05.2019,3364.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.05.2019,4868.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2019,1417094.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.05.2019,39205.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.05.2019,39205.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.05.2019,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.05.2019,483.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2019,6059.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.05.2019,3590467.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.05.2019,2928560.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.05.2019,636666.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.05.2019,29728.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2019,25084598.83
+Flughafen Wien (VIE),Passagiere,01.06.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.06.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.06.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.06.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.06.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.06.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.06.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.06.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.06.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.06.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.06.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.06.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.06.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.06.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.06.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.06.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.06.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2019,
+Flughafen Wien (VIE),Passagiere,01.06.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.06.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.06.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.06.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.06.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.06.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.06.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.06.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.06.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.06.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.06.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.06.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.06.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.06.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.06.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.06.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.06.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2019,
+Flughafen Wien (VIE),Passagiere,01.06.2019,2985210.0
+Flughafen Wien (VIE),Lokalpassagiere,01.06.2019,2278897.0
+Flughafen Wien (VIE),Transferpassagiere,01.06.2019,690164.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.06.2019,24321.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.06.2019,22146220.91
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.06.2019,721565.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.06.2019,717883.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.06.2019,3618.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.06.2019,4951.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2019,1205271.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.06.2019,61928.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.06.2019,61928.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.06.2019,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.06.2019,646.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2019,6191.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.06.2019,3768703.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.06.2019,3058708.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.06.2019,693782.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.06.2019,29918.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2019,23357682.91
+Flughafen Wien (VIE),Passagiere,01.07.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.07.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.07.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.07.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.07.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.07.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.07.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.07.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.07.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.07.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.07.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.07.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.07.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.07.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.07.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.07.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.07.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2019,
+Flughafen Wien (VIE),Passagiere,01.07.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.07.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.07.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.07.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.07.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.07.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.07.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.07.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.07.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.07.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.07.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.07.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.07.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.07.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.07.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.07.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.07.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2019,
+Flughafen Wien (VIE),Passagiere,01.07.2019,3161400.0
+Flughafen Wien (VIE),Lokalpassagiere,01.07.2019,2356272.0
+Flughafen Wien (VIE),Transferpassagiere,01.07.2019,789696.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.07.2019,25169.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.07.2019,23347736.43
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.07.2019,798453.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.07.2019,792947.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.07.2019,5506.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.07.2019,5306.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2019,1246516.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.07.2019,96156.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.07.2019,96156.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.07.2019,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.07.2019,807.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2019,2298.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.07.2019,4056009.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.07.2019,3245375.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.07.2019,795202.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.07.2019,31282.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2019,24596550.43
+Flughafen Wien (VIE),Passagiere,01.08.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.08.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.08.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.08.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.08.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.08.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.08.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.08.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.08.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.08.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.08.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.08.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.08.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.08.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.08.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.08.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.08.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2019,
+Flughafen Wien (VIE),Passagiere,01.08.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.08.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.08.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.08.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.08.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.08.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.08.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.08.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.08.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.08.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.08.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.08.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.08.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.08.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.08.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.08.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.08.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2019,
+Flughafen Wien (VIE),Passagiere,01.08.2019,3151020.0
+Flughafen Wien (VIE),Lokalpassagiere,01.08.2019,2365050.0
+Flughafen Wien (VIE),Transferpassagiere,01.08.2019,776420.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.08.2019,24696.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.08.2019,23575087.92
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.08.2019,823653.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.08.2019,818121.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.08.2019,5532.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.08.2019,5366.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2019,1310485.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.08.2019,93543.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.08.2019,93543.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.08.2019,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.08.2019,809.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2019,2075.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.08.2019,4068216.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.08.2019,3276714.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.08.2019,781952.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.08.2019,30871.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2019,24887647.92
+Flughafen Wien (VIE),Passagiere,01.09.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.09.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.09.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.09.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.09.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.09.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.09.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.09.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.09.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.09.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.09.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.09.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.09.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.09.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.09.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.09.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.09.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2019,
+Flughafen Wien (VIE),Passagiere,01.09.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.09.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.09.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.09.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.09.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.09.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.09.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.09.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.09.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.09.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.09.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.09.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.09.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.09.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.09.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.09.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.09.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2019,
+Flughafen Wien (VIE),Passagiere,01.09.2019,2977411.0
+Flughafen Wien (VIE),Lokalpassagiere,01.09.2019,2246090.0
+Flughafen Wien (VIE),Transferpassagiere,01.09.2019,723236.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.09.2019,24231.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.09.2019,24913342.61
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.09.2019,762361.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.09.2019,758113.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.09.2019,4212.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.09.2019,5076.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2019,1248688.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.09.2019,63392.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.09.2019,63392.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.09.2019,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.09.2019,652.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2019,1176.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.09.2019,3803164.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.09.2019,3067595.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.09.2019,727448.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.09.2019,29959.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2019,26163206.61
+Flughafen Wien (VIE),Passagiere,01.10.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.10.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.10.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.10.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.10.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.10.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.10.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.10.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.10.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.10.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.10.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.10.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.10.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.10.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.10.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.10.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.10.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2019,
+Flughafen Wien (VIE),Passagiere,01.10.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.10.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.10.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.10.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.10.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.10.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.10.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.10.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.10.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.10.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.10.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.10.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.10.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.10.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.10.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.10.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.10.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2019,
+Flughafen Wien (VIE),Passagiere,01.10.2019,2848057.0
+Flughafen Wien (VIE),Lokalpassagiere,01.10.2019,2107842.0
+Flughafen Wien (VIE),Transferpassagiere,01.10.2019,733498.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.10.2019,23557.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.10.2019,26646453.59
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.10.2019,703405.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.10.2019,697615.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.10.2019,5790.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.10.2019,4906.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2019,1610097.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.10.2019,35783.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.10.2019,35783.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.10.2019,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.10.2019,425.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2019,1972.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.10.2019,3587245.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.10.2019,2841240.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.10.2019,739288.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.10.2019,28888.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2019,28258522.59
+Flughafen Wien (VIE),Passagiere,01.11.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.11.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.11.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.11.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.11.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.11.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.11.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.11.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.11.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.11.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.11.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.11.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.11.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.11.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.11.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.11.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.11.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2019,
+Flughafen Wien (VIE),Passagiere,01.11.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.11.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.11.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.11.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.11.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.11.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.11.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.11.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.11.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.11.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.11.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.11.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.11.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.11.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.11.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.11.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.11.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2019,
+Flughafen Wien (VIE),Passagiere,01.11.2019,2391208.0
+Flughafen Wien (VIE),Lokalpassagiere,01.11.2019,1862657.0
+Flughafen Wien (VIE),Transferpassagiere,01.11.2019,523172.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.11.2019,20600.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.11.2019,26606020.96
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.11.2019,493201.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.11.2019,489377.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.11.2019,3796.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.11.2019,3642.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2019,1562646.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.11.2019,23461.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.11.2019,23461.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.11.2019,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.11.2019,340.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2019,1537.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.11.2019,2907870.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.11.2019,2375495.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.11.2019,526968.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.11.2019,24582.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2019,28170203.96
+Flughafen Wien (VIE),Passagiere,01.12.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.12.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.12.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.12.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.12.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.12.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.12.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.12.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.12.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.12.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.12.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.12.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.12.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.12.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.12.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.12.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.12.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2019,
+Flughafen Wien (VIE),Passagiere,01.12.2019,
+Flughafen Wien (VIE),Lokalpassagiere,01.12.2019,
+Flughafen Wien (VIE),Transferpassagiere,01.12.2019,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.12.2019,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.12.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.12.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.12.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.12.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.12.2019,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.12.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.12.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.12.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.12.2019,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.12.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.12.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.12.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.12.2019,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2019,
+Flughafen Wien (VIE),Passagiere,01.12.2019,2466838.0
+Flughafen Wien (VIE),Lokalpassagiere,01.12.2019,2003019.0
+Flughafen Wien (VIE),Transferpassagiere,01.12.2019,457040.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.12.2019,20666.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.12.2019,22733163.28
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.12.2019,477309.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.12.2019,472187.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.12.2019,5064.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.12.2019,3708.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2019,1571571.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.12.2019,24941.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.12.2019,24941.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.12.2019,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.12.2019,346.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2019,2251.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.12.2019,2969088.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.12.2019,2500147.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.12.2019,462104.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.12.2019,24720.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2019,24306985.28
+Flughafen Wien (VIE),Passagiere,01.01.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.01.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.01.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.01.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,
+Flughafen Wien (VIE),Passagiere,01.01.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.01.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.01.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.01.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,
+Flughafen Wien (VIE),Passagiere,01.01.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.01.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.01.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.01.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.01.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.01.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.01.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,
+Flughafen Wien (VIE),Passagiere,01.01.2018,1472161.0
+Flughafen Wien (VIE),Lokalpassagiere,01.01.2018,1108970.0
+Flughafen Wien (VIE),Transferpassagiere,01.01.2018,354730.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.01.2018,15758.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,21846837.61
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.01.2018,351550.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.01.2018,349478.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.01.2018,2072.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.01.2018,2909.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,1185572.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.01.2018,29477.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.01.2018,27900.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.01.2018,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.01.2018,423.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,3984.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.01.2018,1853188.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.01.2018,1486348.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.01.2018,356802.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.01.2018,19090.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.01.2018,23036393.61
+Flughafen Wien (VIE),Passagiere,01.02.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.02.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.02.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.02.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,
+Flughafen Wien (VIE),Passagiere,01.02.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.02.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.02.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.02.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,
+Flughafen Wien (VIE),Passagiere,01.02.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.02.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.02.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.02.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.02.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.02.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.02.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,
+Flughafen Wien (VIE),Passagiere,01.02.2018,1483432.0
+Flughafen Wien (VIE),Lokalpassagiere,01.02.2018,1153295.0
+Flughafen Wien (VIE),Transferpassagiere,01.02.2018,322444.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.02.2018,14882.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,20567238.0
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.02.2018,349430.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.02.2018,348561.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.02.2018,806.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.02.2018,2622.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,1242394.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.02.2018,29240.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.02.2018,27805.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.02.2018,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.02.2018,404.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,3884.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.02.2018,1862102.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.02.2018,1529661.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.02.2018,323250.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.02.2018,17908.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.02.2018,21813516.0
+Flughafen Wien (VIE),Passagiere,01.03.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.03.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.03.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.03.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,
+Flughafen Wien (VIE),Passagiere,01.03.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.03.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.03.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.03.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,
+Flughafen Wien (VIE),Passagiere,01.03.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.03.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.03.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.03.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.03.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.03.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.03.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,
+Flughafen Wien (VIE),Passagiere,01.03.2018,1908514.0
+Flughafen Wien (VIE),Lokalpassagiere,01.03.2018,1435673.0
+Flughafen Wien (VIE),Transferpassagiere,01.03.2018,463872.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.03.2018,18032.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,25691357.369999997
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.03.2018,471070.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.03.2018,469094.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.03.2018,1976.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.03.2018,3400.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,1478166.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.03.2018,32915.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.03.2018,31508.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.03.2018,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.03.2018,455.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,5278.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.03.2018,2412499.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.03.2018,1936275.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.03.2018,465848.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.03.2018,21887.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.03.2018,27174801.369999997
+Flughafen Wien (VIE),Passagiere,01.04.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.04.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.04.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.04.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,
+Flughafen Wien (VIE),Passagiere,01.04.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.04.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.04.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.04.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,
+Flughafen Wien (VIE),Passagiere,01.04.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.04.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.04.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.04.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.04.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.04.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.04.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,
+Flughafen Wien (VIE),Passagiere,01.04.2018,2167764.0
+Flughafen Wien (VIE),Lokalpassagiere,01.04.2018,1583842.0
+Flughafen Wien (VIE),Transferpassagiere,01.04.2018,576774.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.04.2018,19565.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,25230134.66
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.04.2018,591283.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.04.2018,587009.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.04.2018,4274.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.04.2018,4319.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,1271843.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.04.2018,35181.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.04.2018,34226.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.04.2018,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.04.2018,475.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,7948.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.04.2018,2794228.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.04.2018,2205077.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.04.2018,581048.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.04.2018,24359.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.04.2018,26509925.66
+Flughafen Wien (VIE),Passagiere,01.05.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.05.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.05.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.05.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,
+Flughafen Wien (VIE),Passagiere,01.05.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.05.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.05.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.05.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,
+Flughafen Wien (VIE),Passagiere,01.05.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.05.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.05.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.05.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.05.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.05.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.05.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,
+Flughafen Wien (VIE),Passagiere,01.05.2018,2313306.0
+Flughafen Wien (VIE),Lokalpassagiere,01.05.2018,1713278.0
+Flughafen Wien (VIE),Transferpassagiere,01.05.2018,594174.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.05.2018,21050.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,24019335.259999998
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.05.2018,643089.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.05.2018,639491.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.05.2018,3474.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.05.2018,4674.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,1434957.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.05.2018,33344.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.05.2018,32477.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.05.2018,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.05.2018,475.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,4667.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.05.2018,2989739.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.05.2018,2385246.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.05.2018,597648.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.05.2018,26199.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.05.2018,25458959.259999998
+Flughafen Wien (VIE),Passagiere,01.06.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.06.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.06.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.06.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,
+Flughafen Wien (VIE),Passagiere,01.06.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.06.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.06.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.06.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,
+Flughafen Wien (VIE),Passagiere,01.06.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.06.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.06.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.06.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.06.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.06.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.06.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,
+Flughafen Wien (VIE),Passagiere,01.06.2018,2494749.0
+Flughafen Wien (VIE),Lokalpassagiere,01.06.2018,1817229.0
+Flughafen Wien (VIE),Transferpassagiere,01.06.2018,669664.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.06.2018,21548.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,25380901.990000002
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.06.2018,663088.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.06.2018,659223.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.06.2018,3678.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.06.2018,4685.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,1285663.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.06.2018,52528.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.06.2018,51418.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.06.2018,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.06.2018,599.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,5182.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.06.2018,3210365.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.06.2018,2527870.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.06.2018,673342.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.06.2018,26832.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.06.2018,26671746.990000002
+Flughafen Wien (VIE),Passagiere,01.07.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.07.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.07.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.07.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,
+Flughafen Wien (VIE),Passagiere,01.07.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.07.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.07.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.07.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,
+Flughafen Wien (VIE),Passagiere,01.07.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.07.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.07.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.07.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.07.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.07.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.07.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,
+Flughafen Wien (VIE),Passagiere,01.07.2018,2730440.0
+Flughafen Wien (VIE),Lokalpassagiere,01.07.2018,1979545.0
+Flughafen Wien (VIE),Transferpassagiere,01.07.2018,740380.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.07.2018,22404.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,25493193.63
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.07.2018,756356.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.07.2018,750295.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.07.2018,5720.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.07.2018,5076.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,1359777.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.07.2018,89666.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.07.2018,88955.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.07.2018,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.07.2018,776.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,6834.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.07.2018,3576462.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.07.2018,2818795.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.07.2018,746100.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.07.2018,28256.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.07.2018,26859804.63
+Flughafen Wien (VIE),Passagiere,01.08.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.08.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.08.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.08.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,
+Flughafen Wien (VIE),Passagiere,01.08.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.08.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.08.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.08.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,
+Flughafen Wien (VIE),Passagiere,01.08.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.08.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.08.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.08.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.08.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.08.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.08.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,
+Flughafen Wien (VIE),Passagiere,01.08.2018,2783173.0
+Flughafen Wien (VIE),Lokalpassagiere,01.08.2018,2007564.0
+Flughafen Wien (VIE),Transferpassagiere,01.08.2018,766048.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.08.2018,22725.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,24470793.0
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.08.2018,759547.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.08.2018,752537.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.08.2018,6696.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.08.2018,5072.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,1399231.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.08.2018,88857.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.08.2018,88234.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.08.2018,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.08.2018,796.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,3041.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.08.2018,3631577.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.08.2018,2848335.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.08.2018,772744.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.08.2018,28593.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.08.2018,25873065.0
+Flughafen Wien (VIE),Passagiere,01.09.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.09.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.09.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.09.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,
+Flughafen Wien (VIE),Passagiere,01.09.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.09.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.09.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.09.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,
+Flughafen Wien (VIE),Passagiere,01.09.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.09.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.09.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.09.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.09.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.09.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.09.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,
+Flughafen Wien (VIE),Passagiere,01.09.2018,2696340.0
+Flughafen Wien (VIE),Lokalpassagiere,01.09.2018,2005766.0
+Flughafen Wien (VIE),Transferpassagiere,01.09.2018,682240.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.09.2018,22428.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,25675506.93
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.09.2018,706814.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.09.2018,701405.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.09.2018,4914.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.09.2018,4766.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,1174278.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.09.2018,54244.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.09.2018,53430.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.09.2018,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.09.2018,621.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,3635.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.09.2018,3457398.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.09.2018,2760601.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.09.2018,687154.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.09.2018,27815.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.09.2018,26853419.93
+Flughafen Wien (VIE),Passagiere,01.10.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.10.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.10.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.10.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,
+Flughafen Wien (VIE),Passagiere,01.10.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.10.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.10.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.10.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,
+Flughafen Wien (VIE),Passagiere,01.10.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.10.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.10.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.10.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.10.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.10.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.10.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,
+Flughafen Wien (VIE),Passagiere,01.10.2018,2583961.0
+Flughafen Wien (VIE),Lokalpassagiere,01.10.2018,1918296.0
+Flughafen Wien (VIE),Transferpassagiere,01.10.2018,658624.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.10.2018,22684.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,27410802.1
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.10.2018,646559.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.10.2018,639915.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.10.2018,6554.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.10.2018,4580.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,1421030.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.10.2018,33790.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.10.2018,32630.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.10.2018,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.10.2018,475.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,5990.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.10.2018,3264310.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.10.2018,2590841.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.10.2018,665178.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.10.2018,27739.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.10.2018,28837822.1
+Flughafen Wien (VIE),Passagiere,01.11.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.11.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.11.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.11.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,
+Flughafen Wien (VIE),Passagiere,01.11.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.11.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.11.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.11.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,
+Flughafen Wien (VIE),Passagiere,01.11.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.11.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.11.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.11.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.11.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.11.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.11.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,
+Flughafen Wien (VIE),Passagiere,01.11.2018,2192658.0
+Flughafen Wien (VIE),Lokalpassagiere,01.11.2018,1728145.0
+Flughafen Wien (VIE),Transferpassagiere,01.11.2018,457644.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.11.2018,20256.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,26288396.58
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.11.2018,453563.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.11.2018,450656.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.11.2018,2712.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.11.2018,3357.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,1392150.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.11.2018,30236.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.11.2018,28757.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.11.2018,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.11.2018,426.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,4081.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.11.2018,2676457.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.11.2018,2207558.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.11.2018,460356.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.11.2018,24039.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.11.2018,27684627.58
+Flughafen Wien (VIE),Passagiere,01.12.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.12.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.12.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.12.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,
+Flughafen Wien (VIE),Passagiere,01.12.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.12.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.12.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.12.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,
+Flughafen Wien (VIE),Passagiere,01.12.2018,
+Flughafen Wien (VIE),Lokalpassagiere,01.12.2018,
+Flughafen Wien (VIE),Transferpassagiere,01.12.2018,
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.12.2018,
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.12.2018,
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.12.2018,
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.12.2018,
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,
+Flughafen Wien (VIE),Passagiere,01.12.2018,2210411.0
+Flughafen Wien (VIE),Lokalpassagiere,01.12.2018,1811980.0
+Flughafen Wien (VIE),Transferpassagiere,01.12.2018,392560.0
+Flughafen Wien (VIE),Flugbewegungen (an + ab),01.12.2018,19671.0
+Flughafen Wien (VIE),Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,23483878.17
+"Flughafen Malta (MLA, voll konsolidiert)",Passagiere,01.12.2018,414418.0
+"Flughafen Malta (MLA, voll konsolidiert)",Lokalpassagiere,01.12.2018,410960.0
+"Flughafen Malta (MLA, voll konsolidiert)",Transferpassagiere,01.12.2018,3458.0
+"Flughafen Malta (MLA, voll konsolidiert)",Flugbewegungen (an + ab),01.12.2018,3270.0
+"Flughafen Malta (MLA, voll konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,1170954.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Passagiere,01.12.2018,29023.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Lokalpassagiere,01.12.2018,27976.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Transferpassagiere,01.12.2018,0.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Flugbewegungen (an + ab),01.12.2018,410.0
+"Flughafen Kosice (KSC, At-Equity konsolidiert)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,5325.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Passagiere,01.12.2018,2653852.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Lokalpassagiere,01.12.2018,2250916.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Transferpassagiere,01.12.2018,396018.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Flugbewegungen (an + ab),01.12.2018,23351.0
+"Flughafen Wien Gruppe (VIE, MLA, KSC)",Cargo in Tonnen (Luftfracht und Trucking),01.12.2018,24660157.17
