@@ -2,33 +2,34 @@
 # coding: utf-8
 import urllib.request
 
+import numpy as np
 import pandas as pd
 import sqlalchemy as sq
 
 
 def retrieve_pdf(url, output_filename):
     """
-
-    :param url:
-    :param output_filename:
+    Function to go to a website, extract a document(e.g. PDF) and save it onto the machine for future use
+    :param url: URL of the document to fetch
+    :param output_filename: the name of the file to dump onto the machine
+    :return: An excel file of the data retrieved
     """
     user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
     headers = {'User-Agent': user_agent, }
-    request = urllib.request.Request(url, None, headers)  # The assembled request
+    request = urllib.request.Request(url, None, headers)
     response = urllib.request.urlopen(request)
-    import os
-    print(os.getcwd())
     file = open(output_filename, 'wb')
     file.write(response.read())
     file.close()
+    return file
 
 
 def month_to_num(shortmonth, year):
     """
-
-    :param shortmonth:
-    :param year:
-    :return:
+    By passing in a month name and year, we get a returned date. Needed to map the month names to be correct dates
+    :param shortmonth: Because there is Austrian month names (e.g. "Jänner") mapping using datetime is difficult -> simpler solution
+    :param year: We have multiple years for each tabke
+    :return: A string complete date that will be used to assign as a column
     """
     return {
         'Jänner': "01.01." + str(year),
@@ -47,16 +48,33 @@ def month_to_num(shortmonth, year):
         'Year': 'Year'
     }[shortmonth]
 
+def flights_dirty(df):
+    """
+    Function to make the data evener dirtier
+    :param df: a "sem-clean" dataframe
+    :return: a "dirty" dataframe"
+    """
+    df = df.append(df[df["company_name"] == "Airport City Ltd."])  # Make dirty by duplicate
+    df["ticker"] = np.where(df["ticker"] == "AIRPORT FACILITIES Co., LTD.", np.NaN, df["ticker"])  # DQ Resolution Issue 1
+    return df
+
+
+def flights_dirty(df):
+    """
+    Function to cleanse the data after artificially making dirty
+    :param df: a "dirty" dataframe
+    :return: a "clean" dataframe"
+    """
 
 def main():
     """
 
     """
     url = "https://www.viennaairport.com/jart/prj3/va/uploads/data-uploads/IR/2021/10_Excel_Traffic_results_October_2021.xlsx"
-    output_filename = "data/input/vienna.xlsx"
+    output_filename = "data/output/StudentA_SourceB2_Vienna_Airport_src.xlsx"
     retrieve_pdf(url, output_filename)
 
-    year_start_point = {2021: 5, 2020: 34, 2019: 63, 2018: 92}  # in the Excel file, there are different  starting rows for each year
+    year_start_point = {2021: 5, 2020: 34, 2019: 63, 2018: 92}  # in the Excel file, there are different starting rows for each year
     df = pd.DataFrame()  # A main dataframe for the finalised data
     df_airport = pd.DataFrame()  # As there are multiple airports in the file, we use this df as an intermediary store
     for year in year_start_point:
@@ -72,8 +90,9 @@ def main():
 
         df2 = pd.melt(df_airport, id_vars=["Airport", "Category"], value_vars=tmp_df.columns[1:-1], value_name="amount", var_name="date")  # Changes the columns to 1 row for a better processing format
         df = df.append(df2)
-    df.to_csv("data/output/StudentA_Source_B2_clean_Vienna_Aiport.csv", index=False)  # exports the data
+    df.to_csv("data/output/StudentA_SourceB2_Vienna_Airport_dirty.csv", index=False)  # exports the data
     df["company_name"] = "Flughafen Wien AG"
+    df.to_csv("data/output/StudentA_SourceB2_Vienna_Airport_stage.csv", index=False)  # exports the data
     engine = sq.create_engine("mysql+mysqlconnector://mark:password@localhost:3306/CIP")
     df.to_sql(con=engine, name="vienna_flights", if_exists="replace", index=False)
 

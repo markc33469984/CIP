@@ -67,6 +67,36 @@ def extract_airport_details(base_company_url, symbol, myheaders):
         pass
 
 
+def airport_details_dirty(df):
+    """
+    Function to make the data evener dirtier
+    :param df: a "sem-clean" dataframe
+    :return: a "dirty" dataframe"
+    """
+    df = df.append(df[df["company_name"] == "Airport City Ltd."])  # Make dirty by duplicate
+    df["ticker"] = np.where(df["ticker"] == "AIRPORT FACILITIES Co., LTD.", np.NaN, df["ticker"])  # DQ Resolution Issue 1
+    return df
+
+
+def airport_details_cleanse(df):
+    """
+    Function to cleanse the data after artificially making dirty
+    :param df: a "dirty" dataframe
+    :return: a "clean" dataframe"
+    """
+    df["company_name"] = np.where(df["company_name"] == "Flughafen Zuerich AG", "Flughafen Zürich AG", df["company_name"])  # DQ Resolution Issue 1
+    df[["phone-prefix", "phone"]] = df["phone"].str.split('.', 1, expand=True)  # DQ Resolution Issue 2
+    df["phone"] = df["phone"].str.replace(".", "", regex=True)  # DQ Resolution Issue 3
+    df = df.drop_duplicates()  # DQ Resolution Issue 4
+    df = df[df["company_name"] != "AIRPORT FACILITIES Co., LTD."]  # DQ Issue 5
+
+    airport_country_map = {"Airports of Thailand PCL": "Thailand", "AIRPORT FACILITIES Co., LTD.": "Japan", "Malaysia Airports Holdings Berhad": "Malaysia", "Shanghai International Airport Co., Ltd.": "China"}
+    for x in airport_country_map:
+        df.loc[df["company_name"] == x, "addressl3"] = df[df["company_name"] == x]["country"]  # DQ Resoltion 6
+        df.loc[df["company_name"] == x, "country"] = airport_country_map[x]  # DQ Resoltion 6
+    return df
+
+
 def main():
     """
     Main function that a) searches for a list of comapnies with "airport", "flughafen" etc from Reuters website b) scrapes data from these websites c) loads into DB/ CSV file
@@ -76,9 +106,11 @@ def main():
     for i in airport_list["Symbol"].unique():  # Then for each company, scrapes the website for information
         airport_company = airport_company.append(extract_airport_details(base_company_url, i, myheaders))
         # time.sleep(randint(3, 6))  # Sleeps for a random time. Useful to reduce likelihood of website figuring its scraping and then blocking
-    airport_company["company_name"] = np.where(airport_company["company_name"] == "Flughafen Zuerich AG", "Flughafen Zürich AG",
-                                               airport_company["company_name"])  # Data Quality Issue - inconsistent name for Zurich Airport
-    airport_company.to_csv("data/output/StudentA_Source_1_clean_airport_details.csv", index=False)  # Saves to CSV
+    airport_company.to_csv("data/output/StudentA_SourceA_airport_details_src.csv", index=False)  # Saves to CSV
+    airport_company = airport_details_dirty(airport_company)
+    airport_company.to_csv("data/output/StudentA_SourceA_airport_details_dirty.csv", index=False)  # Saves to CSV
+    airport_company = airport_details_cleanse(airport_company)
+    airport_company.to_csv("data/output/StudentA_SourceA_airport_details_stage.csv", index=False)  # Saves to CSV
     engine = sq.create_engine("mysql+mysqlconnector://mark:password@localhost:3306/CIP")
     airport_company.to_sql(con=engine, name="airport", if_exists="replace", index=False)  # Inserts into the database
 

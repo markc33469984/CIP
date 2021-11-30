@@ -1,11 +1,17 @@
 import urllib.request
 
 import pandas as pd
-import tabula
 import sqlalchemy as sq
+import tabula
 
 
 def retrieve_pdf(url, output_filename):
+    """
+    Function to go to a website, extract a document(e.g. PDF) and save it onto the machine for future use
+    :param url: URL of the document to fetch
+    :param output_filename: the name of the file to dump onto the machine
+    :return: An excel file of the data retrieved
+    """
     user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
     headers = {'User-Agent': user_agent, }
     request = urllib.request.Request(url, None, headers)  # The assembled request
@@ -15,97 +21,61 @@ def retrieve_pdf(url, output_filename):
     file.close()
 
 
-def generate_zh_arrivals():
-    url = "https://www.flughafen-zuerich.ch/-/jssmedia/airport/portal/dokumente/das-unternehmen/politics-and-responsibility/noise-and-sound-insulation/monatliche-flugbewegungen_2108.pdf?vs=1"
-    output_filename = "../data/input/Zurich_Airpot_Flight_numbers.pdf"
-    retrieve_pdf(url, output_filename)
-    df3 = tabula.read_pdf_with_template(input_path=output_filename, template_path="../reference/ZH_flights_template.json", pages='all', stream=True)
+def generate_zurich_flight_numbers(pdf_input_filename):
+    """
+    Based on pdf, extracts the tables from the document and then extracts the data from the document.
+    :param pdf_input_filename: The location of where the pdf file has been placed
+    :return: a dataframe with the numbers of dpeartures and arrivals per day
+    """
+    # Begins by reading the pdf document with some help of where the tables are "template"
+    df = tabula.read_pdf_with_template(input_path=pdf_input_filename, template_path="../reference/ZH_flights_template.json", pages='all', stream=True)
     flights = pd.DataFrame()
-    for dfs in df3:
-        dfs = dfs.filter(['Unnamed: 0', 'Anflüge', 'Anflüge Abflüge', 'Abflüge'])
+    for dfs in df:  # Loops through all the tables found from the PDF
+        dfs = dfs.filter(['Unnamed: 0', 'Anflüge', 'Anflüge Abflüge', 'Abflüge'])  #We're only interested in the departures/ arrivals
         for x in range(0, 2):
             for i in dfs.columns[1:]:
                 try:
-                    dfs[[i, i + ".1"]] = dfs[i].str.split(' ', 1, expand=True)
+                    dfs[[i, i + ".1"]] = dfs[i].str.split(' ', 1, expand=True) # DQ Resolution - Sometimes the departures & arrivals are merged into 1 column, this splits them
                 except:
-                    pass
+                    pass # Somtimes not, so then here it just ignores it
         dfs.columns = ["date", "Departures", "Arrivals"]
-        flights = flights.append(dfs)
-    flights["company_name"] = "Flughafen Zürich AG"
-    flights["flights"] = flights["Departures"] + flights["Arrivals"]
-    flights.to_csv("../data/output/StudentA_Source_B1.1_clean_ZH_flight_details.csv", index=False)
-    engine = sq.create_engine("mysql+mysqlconnector://mark:password@localhost:3306/CIP")
-    flights.to_sql(con=engine, name="zurich_flights", if_exists="replace", index=False)
+        flights = flights.append(dfs) # Adds the months data to the dataframe
+    return flights
 
-
-def extract_departures_df(df):
+def flights_dirtify(flights):
     """
-
-    :param df:
-    :return:
+    Function to make the data evener dirtier
+    :param df: a "sem-clean" dataframe
+    :return: a "dirty" dataframe"
     """
-    departures = pd.DataFrame()
-    for dfs in df:  # Loops through each table extracted from the PDF
-        if dfs.columns[0] == "Abflüge":
-            ind = False
-            dfs = dfs.dropna(axis="columns", how="all")
-            if dfs.columns[2] != "Piste 10":
-                dfs.columns = dfs.iloc[0]
-                dfs = dfs.iloc[2:].reset_index(drop=True)
-            else:
-                ind = True
-            for x in range(0, 2):
-                for i in dfs.columns[1:]:
-                    try:
-                        dfs[[i, i + ".1"]] = dfs[i].str.split(' ', 1, expand=True)
-                    except:
-                        pass
-
-            dfs = dfs.dropna(axis="columns", how="all")
-            if ind:
-                dfs.columns = dfs.iloc[1]
-                dfs = dfs.iloc[2:].reset_index(drop=True)
-            else:
-                dfs.columns = dfs.iloc[0]
-                dfs = dfs.iloc[1:].reset_index(drop=True)
-
-            dfs.columns.values[0] = "Date"  # Set's the first column to be the date
-            dfs = dfs[:dfs.index[dfs["Date"].str.contains('Total', na=False)][0]]  # In some cases, two tables are merged as one. Here we only take until the total
-            dfs["Date"] = pd.to_datetime(dfs["Date"].str.split(' ', 1, expand=True)[0], format="%d.%m.%y")  # Removes the day and converts to a datetime objects
-            dfs = dfs.set_index("Date")
-            dfs = dfs.drop(columns=["Total", "Abflüge"], errors="ignore")
-
-            dfs = dfs.dropna(axis="columns", how="all")
-            suff = '_1'
-            dfs.columns = [name if duplicated == False else name + suff for duplicated, name in zip(dfs.columns.duplicated(), dfs.columns)]  # Columns N and O are duplicated, here we add a suffix "_1" to these columns
-            mapper = {"A": "Piste 10", "B": "Piste 10", "C": "Piste 10", "D": "Piste 10", "E": "Piste 16", "F": "Piste 16", "G": "Piste 16", "I": "Piste 28", "K": "Piste 28", "L": "Piste 28", "N": "Piste 32",
-                      "N_1": "Piste 34", "O": "Piste 32", "O_1": "Piste 34"}
-            dfs.columns = dfs.columns.map(mapper)  # We remap the column names from the Letter (e.g. A) to the piste number
-            dfs = dfs.replace("’", "", regex=True)
-            dfs = dfs.apply(pd.to_numeric)  # Make the columns of a numeric datatype
-            dfs = dfs.groupby(lambda x: x, axis=1).sum()  # Group the pistes together
-            departures = departures.append(dfs)
-    departures["Total"] = departures.sum(axis=1) # Adds a total column
-
-    return departures
+    flights.to_csv("../data/output/StudentA_SourceB_ZH_Airport_Flights_dirty.csv", index=False)
+    return flights
 
 
-def generate_zh_departures():
-    url = "https://www.flughafen-zuerich.ch/-/jssmedia/airport/portal/dokumente/das-unternehmen/politics-and-responsibility/noise-and-sound-insulation/monatliche-flugbewegungen_2108.pdf?vs=1"
-    output_filename = "../data/input/Zurich_Airpot_Flight_numbers.pdf"
-    retrieve_pdf(url, output_filename)
-    data = tabula.read_pdf(output_filename, pages='all', stream=True)
-    departures = extract_departures_df(data)
-    departures["company_name"] = "Flughafen Zürich AG"
-    departures.to_csv("../data/output/StudentA_Source_B1_clean_ZH_departures.csv", index=False)
-    engine = sq.create_engine("mysql+mysqlconnector://mark:password@localhost:3306/CIP")
-    departures.to_sql(con=engine, name="zurich_departures", if_exists="replace")
+def flights_cleanse(flights):
+    """
+    Function to cleanse the data after artificially making dirty
+    :param flights: a "dirty" dataframe
+    :return: a "clean" dataframe"
+    """
+    flights = flights[flights.columns[:3]] # DQ Resolution - We only want the first 3 columns
+    flights.columns = ["date", "Departures", "Arrivals"]  # DQ Resolution - Gives the headings the correct name
+    flights["company_name"] = "Flughafen Zürich AG" # DQ Resolution - ensure the key is available
+    flights["flights"] = flights["Departures"].astype(int) + flights["Arrivals"].astype(int) # Merges to give the total number
+    return flights
 
 
 def main():
-    generate_zh_arrivals()
-    generate_zh_departures()
-
+    url = "https://www.flughafen-zuerich.ch/-/jssmedia/airport/portal/dokumente/das-unternehmen/politics-and-responsibility/noise-and-sound-insulation/monatliche-flugbewegungen_2108.pdf?vs=1"
+    output_filename = "../data/output/StudentA_SourceB_ZH_Airport_Flights_src.pdf"
+    retrieve_pdf(url, output_filename)  # First get the pdf file from the website
+    flights = generate_zurich_flight_numbers(output_filename)  # Then get the flight numbers from the pdf doc
+    flights = flights_dirtify(flights)  # Runs procedure to make the data even dirtier
+    flights = flights_cleanse(flights)  # Runs the procedure to cleanse the data
+    # Outputs the data to files/ database
+    flights.to_csv("../data/output/StudentA_SourceB_ZH_Airport_Flights_stage.csv", index=False)
+    engine = sq.create_engine("mysql+mysqlconnector://mark:password@localhost:3306/CIP")
+    flights.to_sql(con=engine, name="zurich_flights", if_exists="replace", index=False)
 
 if __name__ == "__main__":
     main()
