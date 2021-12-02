@@ -38,6 +38,24 @@ def generate_esg_summary(esg_ratings):
     return esg_ratings[["Airport", "ESG_score"]]
 
 
+def generate_co2_summary(airport_env_ind):
+    """
+
+    :param airport_env_ind:
+    :return:
+    """
+    airport_env_ind = airport_env_ind[airport_env_ind["Enviromental Key performance indicators"].isin(["CO2 emissions, scope 1","CO2 emissions, scope 2","CO2 emissions, scope 3"])]
+    airport_env_ind = airport_env_ind[["Airport","2018","2019","2020"]]
+    airport_env_ind["2018"] = airport_env_ind["2018"].astype(float)
+    airport_env_ind["2019"] = airport_env_ind["2019"].astype(float)
+    airport_env_ind["2020"] = airport_env_ind["2020"].astype(float)
+    airport_env_ind["Airport"] = np.where(airport_env_ind["Airport"]=="Vienna","Flughafen Wien AG","Flughafen Zürich AG")
+    airport_env_ind = airport_env_ind.rename(columns={"Airport":"company_name"})
+    airport_env_ind = airport_env_ind.groupby("company_name").sum()
+    airport_env_ind = airport_env_ind.add_prefix("Total CO2 Emissions ")
+    return airport_env_ind
+
+
 def generate_total_flights(zh_flights, vi_flights):
     """
     Combines & aggregates the flight data from two dataframes. It then pivots and aggregates on a monthly/ yearly basis
@@ -138,6 +156,7 @@ def main():
     flights, flights_sum = generate_total_flights(zurich_flights, vienna_flights)  # aggregates the flight data on a monthly/ yearly basis
     covid_cases, covid_cases_sum = generate_covid_cases_summary(covid) # Gets the COVID data
     share_price, share_price_sum = generate_share_price_summary(shareprice_vienna, shareprice_zurich) # Generates the share price, on a monthly/ yearly basis
+    co2 = generate_co2_summary(airport_env_ind) #CO2 Environmental data
 
     # Based on the aggregated/ further refined data, we then merge the data into one "summary/ master" dataframe
     summary = airport  # We start off with the airport details
@@ -145,6 +164,7 @@ def main():
     summary = summary.merge(share_price_sum, how="inner", left_on="ticker", right_on="ticker") # then with the share price
     summary = summary.merge(covid_cases_sum, how="left", left_on="country", right_on="country") # then with the yeatly covid data
     summary = summary.merge(flights_sum, how="left", left_on="company_name", right_on="company_name") # then with the yearly flight data
+    summary = summary.merge(co2, how="left", left_on="company_name", right_on="company_name")
 
     # Then finally, we insert the aggregated and joined data back into the database
     summary.to_sql(con=engine, name="agg_airport_summary", if_exists="replace")
