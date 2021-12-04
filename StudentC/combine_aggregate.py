@@ -44,7 +44,8 @@ def generate_co2_summary(airport_env_ind):
     :param airport_env_ind:
     :return:
     """
-    airport_env_ind = airport_env_ind[airport_env_ind["Enviromental Key performance indicators"].isin(["CO2 emissions, scope 1","CO2 emissions, scope 2","CO2 emissions, scope 3"])]
+    airport_env_ind = airport_env_ind[airport_env_ind["Enviromental Key performance indicators"].isin(["CO2 emissions, scope 1","CO2 emissions, 
+                                                                                                       scope 2","CO2 emissions, scope 3"])]
     airport_env_ind = airport_env_ind[["Airport","2018","2019","2020"]]
     airport_env_ind["2018"] = airport_env_ind["2018"].astype(float)
     airport_env_ind["2019"] = airport_env_ind["2019"].astype(float)
