@@ -83,7 +83,8 @@ def generate_total_flights(zh_flights, vi_flights):
     flights = flights[flights["date"] >= pd.to_datetime("2019-01-01")]  # To compare, we only want common dates
 
     # Yearly aggregation - flights summed per year
-    flights_sum = flights.groupby(["company_name", pd.Grouper(key='date', freq='Y')]).sum().reset_index().pivot(index="company_name", columns="date")  # Here we group by year and airport
+    flights_sum = flights.groupby(["company_name", pd.Grouper(key='date', freq='Y')]).sum().reset_index().pivot(index="company_name", columns="date") 
+                                                                                                       # Here we group by year and airport
     flights_sum.columns = flights_sum.columns.get_level_values(1).year  # Clean up the columns, as pandas creates a multi-level column. Therefore "flattens"
     flights_sum = flights_sum.add_prefix("Annual flights ")  # Add a prefix to the columns e.g. Zurich 2020 -> Annual flights Zurich 2020
 
