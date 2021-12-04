@@ -67,11 +67,13 @@ def generate_total_flights(zh_flights, vi_flights):
     zh_flights["date"] = pd.to_datetime(zh_flights["date"], format="%d.%m.%y")  # Ensure that the date is in the correct format
     zh_flights = zh_flights.drop(columns=["Departures", "Arrivals"])  # We're only interested in the total flight numbers, so can drop this
     zh_flights["flights"] = zh_flights["flights"].astype(int)  # Ensure that the flight number is in the correct format
-    zh_flights = zh_flights.groupby(["company_name", pd.Grouper(key='date', freq='M')]).sum().reset_index()  # We group the flights by month. As the Vienna data is only provided on a monthly basis, we need to aggregate
+    zh_flights = zh_flights.groupby(["company_name", pd.Grouper(key='date', freq='M')]).sum().reset_index()  # We group the flights by month. 
+                                                                 #As the Vienna data is only provided on a monthly basis, we need to aggregate
 
     vi_flights["date"] = pd.to_datetime(vi_flights["date"], format="%d.%m.%Y")  # Ensure that the date is in the correct format
     vi_flights = vi_flights[vi_flights["Category"] == "Flugbewegungen (an + ab)"]  # Filter the data to only get the flight volumes
-    vi_flights = vi_flights[vi_flights["Airport"] == "Flughafen Wien Gruppe (VIE, MLA, KSC)"]  # Although we get the data for all airports, we're interested in the company volumes
+    vi_flights = vi_flights[vi_flights["Airport"] == "Flughafen Wien Gruppe (VIE, MLA, KSC)"]  # Although we get the data for all airports, 
+                                                                                               #we're interested in the company volumes
     vi_flights["company_name"] = "Flughafen Wien AG"  # Setting a column column name for joining later
     vi_flights = vi_flights.groupby(["company_name", pd.Grouper(key='date', freq='M')]).sum().reset_index()  # We group the flights by month
     vi_flights = vi_flights.rename(columns={"amount": "flights"})  # Ensure we have consistent naming conventions
@@ -128,11 +130,15 @@ def generate_share_price_summary(share_vi, share_zh):
     share_price = share_price.rename(columns={"Date": "date", "Close": "share_price"}) # Renames the columns to be consistent
 
     # Summarised data
-    share_price_sum = share_price.groupby("ticker").agg({"share_price": [np.mean, np.max, np.min]}).reset_index() # We aggegate the data to get the mean, min and max of the data
-    share_price_sum.columns = share_price_sum.columns.get_level_values(1) # Because of the multi-level columns, we want to flatten to get the aggregate function column names
-    share_price_sum = share_price_sum.rename(columns={"": "ticker", "mean": "mean_share_price", "amax": "max_share_price", "amin": "min_share_price"}) #Give them more meaningful names
+    share_price_sum = share_price.groupby("ticker").agg({"share_price": [np.mean, np.max, np.min]}).reset_index() # We aggegate the data to get 
+                                                                                                       #the mean, min and max of the data
+    share_price_sum.columns = share_price_sum.columns.get_level_values(1) # Because of the multi-level columns, we want to flatten to get the 
+                                                                                                       #aggregate function column names
+    share_price_sum = share_price_sum.rename(columns={"": "ticker", "mean": "mean_share_price", "amax": "max_share_price", "amin": "min_share_price"}) 
+                                                                                                       #Give them more meaningful names
 
-    share_price = share_price.groupby(["ticker", pd.Grouper(key='date', freq='M')]).mean().reset_index() # Aggegate the data on a monthly basis. This "flattens" the line in subsequent charts (we have many years of data)
+    share_price = share_price.groupby(["ticker", pd.Grouper(key='date', freq='M')]).mean().reset_index() # Aggegate the data on a monthly basis. 
+                                                                                 #This "flattens" the line in subsequent charts (we have many years of data)
     share_price = share_price.pivot(index='date', columns='ticker').reset_index()  # Pivots the data to get the columns as each company's ticker
     share_price.columns = share_price.columns.get_level_values(1) # Because of the multi-level columns, we want to flatten to get the comapany's name
     share_price = share_price.rename(columns={"": "date"}) # give it a common data column
