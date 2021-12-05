@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='Group Work',
     version='',
-    packages=[''],
+    packages=['data', 'StudentA', 'StudentB', 'StudentC'],
     url='',
     license='',
     author='markcannell',
