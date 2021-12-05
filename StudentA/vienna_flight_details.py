@@ -7,7 +7,7 @@ import pandas as pd
 import sqlalchemy as sq
 
 
-def retrieve_pdf(url, output_filename):
+def retrieve_excel(url, output_filename):
     """
     Function to go to a website, extract a document(e.g. PDF) and save it onto the machine for future use
     :param url: URL of the document to fetch
@@ -48,31 +48,39 @@ def month_to_num(shortmonth, year):
         'Year': 'Year'
     }[shortmonth]
 
+
 def flights_dirty(df):
     """
     Function to make the data evener dirtier
     :param df: a "sem-clean" dataframe
     :return: a "dirty" dataframe"
     """
-    df = df.append(df[df["company_name"] == "Airport City Ltd."])  # Make dirty by duplicate
-    df["ticker"] = np.where(df["ticker"] == "AIRPORT FACILITIES Co., LTD.", np.NaN, df["ticker"])  # DQ Resolution Issue 1
+    df = df.append(df[df["amount"] == "27739"])  # Make dirty by duplicate
+    df["amount"] = np.where(df["amount"].isna(), 0, df["amount"])
+    df.iloc[::40, :].loc[:, "amount"] = df.iloc[::40, :].loc[:, "amount"].astype(int) * 5  # Changes every 50th record's departures number to be multiplied by 5
+    df.loc[::24, "amount"] = np.NaN
     return df
 
 
-def flights_dirty(df):
+def flights_clean(df):
     """
     Function to cleanse the data after artificially making dirty
     :param df: a "dirty" dataframe
     :return: a "clean" dataframe"
     """
+    df = df.drop_duplicates()  # Drops duplicates
+    df["company_name"] = "Flughafen Wien AG"  # Adds attribute to join on
+    df = df[~df["amount"].isna()]  # Removes any NA's
+    return df
+
 
 def main():
     """
-
+    Main function to retrieve the excel file, extract the data out of it. Make it dirty and then cleanse it. Output to DB & CSV files
     """
     url = "https://www.viennaairport.com/jart/prj3/va/uploads/data-uploads/IR/2021/10_Excel_Traffic_results_October_2021.xlsx"
     output_filename = "data/output/StudentA_SourceB2_Vienna_Airport_src.xlsx"
-    retrieve_pdf(url, output_filename)
+    retrieve_excel(url, output_filename)  # gets the Excel file
 
     year_start_point = {2021: 5, 2020: 34, 2019: 63, 2018: 92}  # in the Excel file, there are different starting rows for each year
     df = pd.DataFrame()  # A main dataframe for the finalised data
@@ -86,15 +94,17 @@ def main():
             airport_name = tmp_df[["Category"]].iloc[x * 6][0]  # Extracts the airport name from the 1 row
             tmp_df_airport = tmp_df.iloc[x * 6 + 1:(x + 1) * 6]  # defines which rows to take for that 1 specific airport
             tmp_df_airport["Airport"] = airport_name
-            df_airport = df_airport.append(tmp_df_airport)
+            df_airport = df_airport.append(tmp_df_airport)  # Appends to the master df
 
         df2 = pd.melt(df_airport, id_vars=["Airport", "Category"], value_vars=tmp_df.columns[1:-1], value_name="amount", var_name="date")  # Changes the columns to 1 row for a better processing format
         df = df.append(df2)
+    df = flights_dirty(df)  # Makes the data dirty
     df.to_csv("data/output/StudentA_SourceB2_Vienna_Airport_dirty.csv", index=False)  # exports the data
-    df["company_name"] = "Flughafen Wien AG"
+
+    df = flights_clean(df)  # Cleans the data
     df.to_csv("data/output/StudentA_SourceB2_Vienna_Airport_stage.csv", index=False)  # exports the data
     engine = sq.create_engine("mysql+mysqlconnector://mark:password@localhost:3306/CIP")
-    df.to_sql(con=engine, name="vienna_flights", if_exists="replace", index=False)
+    df.to_sql(con=engine, name="vienna_flights", if_exists="replace", index=False)  # Imports the data to the db
 
 
 if __name__ == "__main__":
