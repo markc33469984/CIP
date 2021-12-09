@@ -44,8 +44,7 @@ def generate_co2_summary(airport_env_ind):
     :param airport_env_ind:
     :return:
     """
-    airport_env_ind = airport_env_ind[airport_env_ind["Enviromental Key performance indicators"].isin(["CO2 emissions, scope 1","CO2 emissions, 
-                                                                                                       scope 2","CO2 emissions, scope 3"])]
+    airport_env_ind = airport_env_ind[airport_env_ind["Enviromental Key performance indicators"].isin(["CO2 emissions, scope 1","CO2 emissions, scope 2","CO2 emissions, scope 3"])]
     airport_env_ind = airport_env_ind[["Airport","2018","2019","2020"]]
     airport_env_ind["2018"] = airport_env_ind["2018"].astype(float)
     airport_env_ind["2019"] = airport_env_ind["2019"].astype(float)
@@ -157,7 +156,7 @@ def main():
                    "covid_cleaned.csv": "covid",
                    "Combined_ariports_environment _data.csv": "airport_env_ind"}
 
-    engine = sq.create_engine("mysql+mysqlconnector://student:password@localhost:3306/CIP")  # Creates a database connection object
+    engine = sq.create_engine("mysql+mysqlconnector://admin:FARhslu123@localhost:3306/CIP")  # Creates a database connection object
 
     retrieve_tables_to_df(engine, file_tables) # Extracts the data from the database
     esg = generate_esg_summary(esg_ratings)  # gets the filtered esg data
@@ -173,6 +172,16 @@ def main():
     summary = summary.merge(covid_cases_sum, how="left", left_on="country", right_on="country") # then with the yeatly covid data
     summary = summary.merge(flights_sum, how="left", left_on="company_name", right_on="company_name") # then with the yearly flight data
     summary = summary.merge(co2, how="left", left_on="company_name", right_on="company_name")
+
+    # Answering Research Questions
+    agg_airport_summary = pd.read_sql_table("agg_airport_summary", engine)
+    agg_covid = pd.read_sql_table("agg_covid", engine)
+    agg_flights = pd.read_sql_table("agg_flights", engine)
+    agg_share_price = pd.read_sql_table("agg_share_price", engine)
+    q1 = agg_flights.merge(agg_covid, how="left", left_on="date", right_on="date")
+    q2 = agg_share_price.merge(agg_covid, how="left", left_on="date",
+                               right_on="date")  # .plot(logy=False,figsize=(10, 5))
+
 
     # Then finally, we insert the aggregated and joined data back into the database
     summary.to_sql(con=engine, name="agg_airport_summary", if_exists="replace")
