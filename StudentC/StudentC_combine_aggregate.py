@@ -173,15 +173,6 @@ def main():
     summary = summary.merge(flights_sum, how="left", left_on="company_name", right_on="company_name") # then with the yearly flight data
     summary = summary.merge(co2, how="left", left_on="company_name", right_on="company_name")
 
-    # Answering Research Questions
-    agg_airport_summary = pd.read_sql_table("agg_airport_summary", engine)
-    agg_covid = pd.read_sql_table("agg_covid", engine)
-    agg_flights = pd.read_sql_table("agg_flights", engine)
-    agg_share_price = pd.read_sql_table("agg_share_price", engine)
-    q1 = agg_flights.merge(agg_covid, how="left", left_on="date", right_on="date")
-    q2 = agg_share_price.merge(agg_covid, how="left", left_on="date",
-                               right_on="date")  # .plot(logy=False,figsize=(10, 5))
-
 
     # Then finally, we insert the aggregated and joined data back into the database
     summary.to_sql(con=engine, name="agg_airport_summary", if_exists="replace")

@@ -15,41 +15,29 @@ pd.options.display.float_format = '{:.2f}'.format
 pd.options.mode.chained_assignment = None
 
 
-# # Extracts data from the database into dataframes
+# Extracts data from the database into dataframes
+engine = sq.create_engine("mysql+mysqlconnector://admin:FARhslu123@localhost:3306/CIP")
 
-# In[13]:
-
-
-# Main, extracts data from database
-engine = sq.create_engine("mysql+mysqlconnector://student:password@localhost:3306/CIP")
-
-#aggegrate_tables = ["agg_airport_summary","agg_covid","agg_flights","agg_share_price"]
+# Answering Research Questions
 agg_airport_summary = pd.read_sql_table("agg_airport_summary", engine)
 agg_covid = pd.read_sql_table("agg_covid", engine)
 agg_flights = pd.read_sql_table("agg_flights", engine)
 agg_share_price = pd.read_sql_table("agg_share_price", engine)
-
-
-# # Providing the answers to Q1 Flights Vs. Covid
-
-# In[14]:
+q1 = agg_flights.merge(agg_covid, how="left", left_on="date", right_on="date")
+q2 = agg_share_price.merge(agg_covid, how="left", left_on="date",
+                               right_on="date")  # .plot(logy=False,figsize=(10, 5))
 
 
 
+# Providing the answers to Q1 Flights Vs. Covid
 q1 = agg_flights.merge(agg_covid,how="left",left_on="date",right_on="date")
-
 ax = q1[["COVID-19 Cases - Austria","COVID-19 Cases - Switzerland"]].plot(figsize=(10, 5))
 ax2 = q1[["Flughafen Wien AG","Flughafen Zürich AG"]].plot(secondary_y=True, ax=ax)
-
 ax.set_ylabel('Number of New COVID Cases')
 ax2.set_ylabel('Number of Flights')
 
 
-# # Providing the answers to Q2
-
-# In[16]:
-
-
+# Providing the answers to Q2
 q2 = agg_share_price.merge(agg_covid,how="left",left_on="date",right_on="date")#.plot(logy=False,figsize=(10, 5))
 ax = q2[["COVID-19 Cases - Austria","COVID-19 Cases - Switzerland"]].plot(figsize=(10, 5))
 ax2 = q2[["FHZN.S","VIEV.VI"]].plot(secondary_y=True, ax=ax)

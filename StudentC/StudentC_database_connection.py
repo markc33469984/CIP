@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[34]:
-
-
-# !pip install PyMySQL
-# !pip install sqlalchemy
 
 import numpy as np
 import pandas as pd
@@ -37,20 +32,4 @@ if __name__ == "__main__":
     main()
 
 
-# In[ ]:
-
-
-# engine = sq.create_engine("mysql+pymysql://admin:FARhslu123@localhost:3306/CIP")
-
-
-# In[ ]:
-
-
-import matplotlib.pyplot as plt
-from IPython.core.display import display, HTML
-
-pd.set_option('display.max_rows', 500)
-display(HTML("<style>.container { width:100% !important; }</style>"))
-pd.options.display.float_format = '{:.2f}'.format
-pd.options.mode.chained_assignment = None
 
