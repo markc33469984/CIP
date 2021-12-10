@@ -41,8 +41,8 @@ def generate_esg_summary(esg_ratings):
 def generate_co2_summary(airport_env_ind):
     """
 
-    :param airport_env_ind:
-    :return:
+    :param airport_env_ind
+    :return: filtered dataset with environmental data for 2018, 2019, 2020
     """
     airport_env_ind = airport_env_ind[airport_env_ind["Enviromental Key performance indicators"].isin(["CO2 emissions, scope 1","CO2 emissions, scope 2","CO2 emissions, scope 3"])]
     airport_env_ind = airport_env_ind[["Airport","2018","2019","2020"]]
@@ -156,7 +156,7 @@ def main():
                    "covid_cleaned.csv": "covid",
                    "Combined_ariports_environment _data.csv": "airport_env_ind"}
 
-    engine = sq.create_engine("mysql+mysqlconnector://admin:FARhslu123@localhost:3306/CIP")  # Creates a database connection object
+    engine = sq.create_engine("mysql+mysqlconnector://student:password@localhost:3306/CIP")  # Creates a database connection object
 
     retrieve_tables_to_df(engine, file_tables) # Extracts the data from the database
     esg = generate_esg_summary(esg_ratings)  # gets the filtered esg data
