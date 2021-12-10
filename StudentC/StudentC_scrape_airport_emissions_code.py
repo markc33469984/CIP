@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[34]:
-
 
 #!/usr/bin/env python
 # coding: utf-8
@@ -95,19 +90,15 @@ def main():
     df_vienna = df_vienna_env(url_vienna)
     df_zurich = df_zurich_env(url_zurich)
     df_env = concat_dfs(df_vienna,df_zurich)
-    df_env.to_csv("StudentC_SourceC_combined_airports_environment_src.csv") 
+    df_env.to_csv("StudentC_SourceC_combined_airports_environment_src.csv")
 
 if __name__ == '__main__':
     main()
 
 
-# In[35]:
 
 
-pd.read_csv("StudentC_SourceC_combined_airports_environment_src.csv")
 
-
-# In[ ]:
 
 
 
