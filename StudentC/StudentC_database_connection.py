@@ -25,7 +25,7 @@ def main():
                    "StudentA_SourceB2_Vienna_Airport_stage.csv": "vienna_flights",
                    "StudentC_SourceF_covid19_stage.csv": "covid",
                    "StudentC_SourceC_combined_airports_environment_stage.csv": "airport_env_ind"}
-    engine = sq.create_engine("mysql+pymysql://admin:FARhslu123@localhost:3306/CIP")
+    engine = sq.create_engine("mysql+pymysql://student:password@localhost:3306/CIP")
     load_files_to_database(engine,file_tables)
 
 if __name__ == "__main__":
